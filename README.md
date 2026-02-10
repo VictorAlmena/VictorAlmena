@@ -51,4 +51,4 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 ### Contacto
 
 * **Email:** almenamvictor@gmail.com
-* **LinkedIn:** [linkedin.com/in/victoralmena](https://linkedin.com/in/victoralmena)
+* **LinkedIn:** [linkedin.com/in/victoralmena](https://www.linkedin.com/in/victoralmenamartinez/)
