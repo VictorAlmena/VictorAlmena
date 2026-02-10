@@ -18,7 +18,7 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 * **DevOps & Cloud:** Docker, GitHub Actions, Git
 * **Monitorización:** Prometheus, Grafana
 * **Frontend:** Vue.js, HTML, CSS
-* **IA & R&D:** OpenAI API, LLMs, RAG, Embeddings, Vertex AI Search
+* **IA & R&D:** OpenAI API, LLMs, RAG, Embeddings, LangGraph, Vertex AI Search
 
 ---
 
@@ -48,7 +48,6 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
     
 
 ---
-
 ### Contacto
 
 * **Email:** almenamvictor@gmail.com
